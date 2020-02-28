@@ -1,0 +1,217 @@
+{
+  "Dispel Magic": {
+    "sequence": "cDPW",
+    "order": 0,
+    "target": "self"
+  },
+  "Summon Ice Elemental": {
+    "sequence": "cSWWS",
+    "order": 8,
+    "target": "nobody"
+  },
+  "Summon Fire Elemental": {
+    "sequence": "cWSSW",
+    "order": 7,
+    "target": "nobody"
+  },
+  "Magic Mirror": {
+    "sequence": "cw",
+    "order": 2,
+    "target": "self"
+  },
+  "Lightning Bolt": {
+    "sequence": "DFFDD",
+    "order": 34,
+    "target": "other"
+  },
+  "Cure Heavy Wounds": {
+    "sequence": "DFPW",
+    "order": 23,
+    "target": "self"
+  },
+  "Cure Light Wounds": {
+    "sequence": "DFW",
+    "order": 22,
+    "target": "self"
+  },
+  "Blindness": {
+    "sequence": "DWFFd",
+    "order": 25,
+    "target": "other"
+  },
+  "Amnesia": {
+    "sequence": "DPP",
+    "order": 15,
+    "target": "other"
+  },
+  "Disease": {
+    "sequence": "DSFFFc",
+    "order": 20,
+    "target": "other"
+  },
+  "Delay Effect": {
+    "sequence": "DWSSSP",
+    "order": 28,
+    "target": "self"
+  },
+  "Poison": {
+    "sequence": "DWWFWD",
+    "order": 21,
+    "target": "other"
+  },
+  "Paralysis": {
+    "sequence": "FFF",
+    "order": 14,
+    "target": "other"
+  },
+  "Summon Troll": {
+    "sequence": "FPSFW",
+    "order": 5,
+    "target": "self"
+  },
+  "Fireball": {
+    "sequence": "FSSDD",
+    "order": 35,
+    "target": "other"
+  },
+  "Shield": {
+    "sequence": "P",
+    "order": 30,
+    "target": "self"
+  },
+  "Stab": {
+    "sequence": ">",
+    "special": "not a spell"
+  },
+  "Surrender": {
+    "sequence": "p",
+    "special": "not a spell"
+  },
+  "Remove Enchantment": {
+    "sequence": "PDWP",
+    "order": 29,
+    "target": "other"
+  },
+  "Invisibility": {
+    "sequence": "PPws",
+    "order": 26,
+    "target": "self"
+  },
+  "Charm Monster": {
+    "sequence": "PSDD",
+    "order": 18,
+    "target": "self"
+  },
+  "Charm Person": {
+    "sequence": "PSDF",
+    "order": 19,
+    "target": "other"
+  },
+  "Summon Ogre": {
+    "sequence": "PSFW",
+    "order": 4,
+    "target": "self"
+  },
+  "Finger of Death": {
+    "sequence": "PWPFSSSD",
+    "order": 36,
+    "target": "other"
+  },
+  "Haste": {
+    "sequence": "PWPWWc",
+    "order": 9,
+    "target": "self"
+  },
+  "Magic Missile": {
+    "sequence": "SD",
+    "order": 31,
+    "target": "other"
+  },
+  "Summon Goblin": {
+    "sequence": "SFW",
+    "order": 3,
+    "target": "self"
+  },
+  "Anti-spell": {
+    "sequence": "SPFP",
+    "order": 24,
+    "target": "other"
+  },
+  "Permanency": {
+    "sequence": "SPFPSDW",
+    "order": 27,
+    "target": "self"
+  },
+  "Time Stop": {
+    "sequence": "SPPFD",
+    "order": 10,
+    "target": "self"
+  },
+  "Resist Cold": {
+    "sequence": "SSFP",
+    "order": 13,
+    "target": "self"
+  },
+  "Fire Storm": {
+    "sequence": "SWWc",
+    "order": 37,
+    "target": "nobody"
+  },
+  "Clap of Lightning": {
+    "sequence": "WDDc",
+    "order": 34,
+    "special": "once per warlock per game"
+  },
+  "Cause Light Wounds": {
+    "sequence": "WFP",
+    "order": 32,
+    "target": "other"
+  },
+  "Summon Giant": {
+    "sequence": "WFPSFW",
+    "order": 6,
+    "target": "self"
+  },
+  "Cause Heavy Wounds": {
+    "sequence": "WPFD",
+    "order": 33,
+    "target": "other"
+  },
+  "Counter Spell": {
+    "sequence": "WWS",
+    "order": 1,
+    "target": "self"
+  },
+  "Ice Storm": {
+    "sequence": "WSSc",
+    "order": 38,
+    "target": "nobody"
+  },
+  "Resist Heat": {
+    "sequence": "WWFP",
+    "order": 12,
+    "target": "self"
+  },
+  "Protection": {
+    "sequence": "WWP",
+    "order": 11,
+    "target": "self"
+  },
+  "Confusion": {
+    "sequence": "DSF",
+    "order": 17,
+    "target": "other",
+    "alternate": "Maladroitness"
+  },
+  "Fear": {
+    "sequence": "SWD",
+    "order": 16,
+    "target": "other"
+  },
+  "Maladroitness": {
+    "alternate": "Confusion",
+    "order": 17,
+    "target": "other",
+    "sequence": "DSF"
+  }
+}
